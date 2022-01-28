@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-describe('Example', () => {
+describe('Meu primeiro teste', () => {
   beforeAll(async () => {
     await device.launchApp();
   });
